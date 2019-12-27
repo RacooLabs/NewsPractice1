@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508680605931",
+    "firebase_url": "https://racoo-project.firebaseio.com",
+    "project_id": "racoo-project",
+    "storage_bucket": "racoo-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508680605931:android:becab7ce192e5fad406eae",
+        "android_client_info": {
+          "package_name": "com.racoo.newspractice1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508680605931-p1c1ej1vhslnish7btd1el6lpfgvn6rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg6f1ERoRrvLEmrVJXT7bcK3pD6N_XMYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508680605931-p1c1ej1vhslnish7btd1el6lpfgvn6rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

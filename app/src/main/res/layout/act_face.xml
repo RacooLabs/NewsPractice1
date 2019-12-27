@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/RelativeLayout_main"
+    >
+
+    <!-- 1. 얼굴 사진을 보여주고
+    2. 얼굴 위에다가 멍든 사진
+    3. 볼때기 - 고양이 수염 -->
+
+
+
+    <!-- fitCenter 사진이 왔을 때 비율이 넘치면 어캐 처리 되는지, 이쁘게 중앙에 맞춰서 들어옴 -->
+    <!-- adjustviewbound = true 비율 유 가로 세로 비율이 깨지는 걸 허락할래 말래 -->
+
+    <ImageView
+        android:id="@+id/ImageView_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        android:layout_centerInParent="true"
+        android:src="@drawable/exampicture"
+    />
+
+
+
+
+
+
+
+
+</RelativeLayout>
